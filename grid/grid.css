@@ -1,0 +1,78 @@
+.container{
+    background-color: white;
+    height: 660px;
+    width: 1000px;
+    margin-top: 70px;
+    margin-left: 250px;
+}
+
+.container2{
+    height: 110px;
+    width: 1000px;
+    background-color:red;
+    text-align: center;
+}
+.container2 h1{
+    color: yellow;
+    font-size: 480%;
+    text-shadow: 0 0 10px #170909 , 0 0 10px #010107;
+}
+.container3{
+    height:5px;
+    width: 1000px;
+    background-color:white;
+}
+.container4{
+    height: 460px;
+    width: 1000px;
+    background-color:rgb(243, 243, 80);
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+.containern{
+    width: 690px;
+    height: 40px;
+    text-align: center;
+    background-color:rgb(243, 243, 80);
+    margin-top: -20px;
+
+}
+.containern h1{
+    font-size: 250%;
+}
+.container5{
+    margin: 30px 20px;
+    
+    width: 650px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto;
+    row-gap: 2px;
+    column-gap: 10px;
+    
+}
+  
+.container5 img{
+    height: 90px;
+    width: 120px;
+    box-shadow: 0 0 10px #534848 , 0 0 10px #4c4c57;
+    
+    
+}
+.pics h2{
+    font-size: 170%;
+    text-align: center;
+    margin-top: -2px;
+}
+.container6{
+    width: 350px;
+    height: 540px;
+    
+}
+.container6 img{
+    margin-top: -40px;
+    height: 500px;
+    width: 310px;
+}
